@@ -1,0 +1,16 @@
+C:\Users\86183\source\repos\SNMP\SNMP\obj\Debug\SNMP.csproj.AssemblyReference.cache
+C:\Users\86183\source\repos\SNMP\SNMP\obj\Debug\MainWindow.baml
+C:\Users\86183\source\repos\SNMP\SNMP\obj\Debug\MainWindow.g.cs
+C:\Users\86183\source\repos\SNMP\SNMP\obj\Debug\App.g.cs
+C:\Users\86183\source\repos\SNMP\SNMP\obj\Debug\SNMP_MarkupCompile.cache
+C:\Users\86183\source\repos\SNMP\SNMP\obj\Debug\SNMP.g.resources
+C:\Users\86183\source\repos\SNMP\SNMP\obj\Debug\SNMP.Properties.Resources.resources
+C:\Users\86183\source\repos\SNMP\SNMP\obj\Debug\SNMP.csproj.GenerateResource.cache
+C:\Users\86183\source\repos\SNMP\SNMP\obj\Debug\SNMP.csproj.CoreCompileInputs.cache
+C:\Users\86183\source\repos\SNMP\SNMP\bin\Debug\SNMP.exe.config
+C:\Users\86183\source\repos\SNMP\SNMP\bin\Debug\SNMP.exe
+C:\Users\86183\source\repos\SNMP\SNMP\bin\Debug\SNMP.pdb
+C:\Users\86183\source\repos\SNMP\SNMP\bin\Debug\SnmpSharpNet.dll
+C:\Users\86183\source\repos\SNMP\SNMP\obj\Debug\SNMP.csproj.CopyComplete
+C:\Users\86183\source\repos\SNMP\SNMP\obj\Debug\SNMP.exe
+C:\Users\86183\source\repos\SNMP\SNMP\obj\Debug\SNMP.pdb

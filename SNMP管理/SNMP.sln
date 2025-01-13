@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SNMP", "SNMP\SNMP.csproj", "{B366D9E0-5B35-4531-BAC3-CC985F3D446C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B366D9E0-5B35-4531-BAC3-CC985F3D446C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B366D9E0-5B35-4531-BAC3-CC985F3D446C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B366D9E0-5B35-4531-BAC3-CC985F3D446C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B366D9E0-5B35-4531-BAC3-CC985F3D446C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C992869A-FFE8-4634-A5AA-55B14A2A10DA}
+	EndGlobalSection
+EndGlobal
